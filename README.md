@@ -1,2 +1,2 @@
-# github-para-programadores
-prueba de repositorio
+# Bienvenidos al curso de github para desarrolladores
+github-para-desarrolladores
