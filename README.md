@@ -2,4 +2,4 @@
 
 github para desarrolladores
 
-[visita mi blog](http:\\pzalazar05.mobi)
+[Visita mi blog](http:\\pzalazar05.mobi)
